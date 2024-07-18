@@ -9,7 +9,7 @@
 - 👀 I’m interested in **WebDevelopment**
 - 🌱 I’m currently a **PHP Laravel $ ASP.Net Core (c#)** Developer ...
 - ⚡ **Fun fact:** Programming is fun, nothing is impossible to achieve...
-- 🌱 I’m currently learning **Azure/DevOps $ Angular Framework**
+- 🌱 Currently exploring on my knowledge of **Azure/DevOps**
 
 <p align="left">
 </p>
