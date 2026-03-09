@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Jay Code</h1>
-<h3 align="center">A passionate C# Asp.Net Core, Angular & PHP Laravel developer from Nigeria</h3>
+<h3 align="center">A Creative C# Asp.Net Core Web Api Developer, Angular & PHP Laravel developer from Nigeria</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/550x/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-code12&label=Profile%20views&color=0e75b6&style=flat" alt="jay-code12" /> </p>
 
-- 👀 I’m interested in **WebDevelopment**
-- 🌱 I’m currently a **PHP Laravel $ ASP.Net Core (c#)** Developer ...
+- 👀 I’m interested in **Software Engineering**
+- 🌱 I’m a **PHP Laravel $ ASP.Net Core (c#)** Developer ...
 - ⚡ **Fun fact:** Programming is fun, nothing is impossible to achieve...
-- 🌱 Currently exploring on my knowledge of **Azure/DevOps**
+- 🌱 strong knowledge of **Azure/DevOps**
 
 <p align="left">
 </p>
