@@ -6,8 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-code12&label=Profile%20views&color=0e75b6&style=flat" alt="jay-code12" /> </p>
 
-- 👀 I’m interested in **Software Engineering**
-- 🌱 I’m a **PHP Laravel $ ASP.Net Core (c#)** Developer ...
+- 👀 Interested in **Software Engineering**
+- 🌱 **PHP Laravel $ ASP.Net Core (c#)** Developer ...
 - ⚡ **Fun fact:** Programming is fun, nothing is impossible to achieve...
 - 🌱 strong knowledge of **Azure/DevOps**
 
@@ -19,6 +19,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay-code12&show_icons=true&locale=en&layout=compact" alt="jay-code12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-code12&" alt="jay-code12" /></p>
 
 
