@@ -9,7 +9,7 @@
 - 👀 Interested in **Software Engineering**
 - 🌱 **PHP Laravel $ ASP.Net Core (c#)** Developer ...
 - ⚡ **Fun fact:** Programming is fun, nothing is impossible to achieve...
-- 🌱 strong knowledge in building **scalable**, **reliable** and **hight performance** system using **Microservices Architecture**
+- 🌱 strong knowledge in building **scalable**, **reliable** and **high performance** system using **Microservices Architecture**
 
 <p align="left">
 </p>
